@@ -4,7 +4,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat.
 
-[Cleique aqui para acessar](https://jecsilva.github.io/nlw-esports-explorer)
+[Clique aqui para acessar](https://jecsilva.github.io/nlw-esports-explorer)
 
 ## Tecnologias
 
@@ -15,4 +15,3 @@ Projeto construído no evento Next Level Week da Rocketseat.
 ## Contato
 
 jessica.c.silva@outlook.com.br
-
